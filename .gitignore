@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Vim swap files
+*.swp
+
+# Environment files (if you ever use virtualenv)
+.env
+venv/
+
+# SQLite database files (if you add one in future)
+*.sqlite3
